@@ -29,6 +29,8 @@ ALTERNATIVELY, MOVE THE MOUSE TO A CORNER OF THE SCREEN (0,0). I AM NOT RESPONSI
 
 The control might either be too sensitive or not sensitive at all, you can change this by editing the respective python file in a text editor or IDE. The scale factors can be found on line 181 for mcwebcam.py and line 186 for mcwebcamWin10.py.
 
+This code is licensed under Apache 2.0
+
 The setup for the python version is overly long and requires lots of technical knowledge to get set up, so I plan on making a more polished version in C++ in the near future. 
 
 I AM NOT RESPONSIBLE FOR ANY HARM DONE TO PERSONS OR PROPERTY AS A RESULT OF THIS CODE. 
