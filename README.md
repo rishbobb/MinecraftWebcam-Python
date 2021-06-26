@@ -23,7 +23,7 @@ A few things before attempting to use this program:
  
 4. If you are using a Windows computer, install the following package
     `pip install pydirectinput`
-   Also turn on Direct Input in Minecraft controls menu
+   Also turn on Raw Input in Minecraft controls menu
 5. To run the program, run `python mcwebcam.py` from the program folder if you are on a Unix based computer, or `python mcwebcamWin10.py` if you are on a Windows computer. Then quickly tab to Minecraft. TO STOP THE PROGRAM, ALT TAB/COMMAND TAB INTO CMD OR TERMINAL AND PRESS CTRL+C AT THE SAME TIME. YOU MIGHT NEED TO SPAM IT.
 ALTERNATIVELY, MOVE THE MOUSE TO A CORNER OF THE SCREEN (0,0). I AM NOT RESPONSIBLE FOR INABILITY TO STOP THE PROGRAM.  
 
