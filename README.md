@@ -27,7 +27,7 @@ A few things before attempting to use this program:
 5. To run the program, run `python mcwebcam.py` from the program folder if you are on a Unix based computer, or `python mcwebcamWin10.py` if you are on a Windows computer. Then quickly tab to Minecraft. TO STOP THE PROGRAM, ALT TAB/COMMAND TAB INTO CMD OR TERMINAL AND PRESS CTRL+C AT THE SAME TIME. YOU MIGHT NEED TO SPAM IT.
 ALTERNATIVELY, MOVE THE MOUSE TO A CORNER OF THE SCREEN (0,0). I AM NOT RESPONSIBLE FOR INABILITY TO STOP THE PROGRAM.  
 
-The control might either be too sensitive or not sensitive at all, you can change this by editing the respective python file in a text editor or IDE. The scale factors can be found on line 181 for mcwebcam.py and line 186 for mcwebcamWin10.py.
+The control might either be too sensitive or not sensitive at all, you can change this by editing the respective python file in a text editor or IDE. The scale factors can be found on line 196 for mcwebcam.py and line 201 for mcwebcamWin10.py. There will be two lines under the format `x = x * 18`, one for x and one for y. You can change the number that the coordinates are multiplied by. 
 
 This code is licensed under Apache 2.0
 
