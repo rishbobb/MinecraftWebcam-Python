@@ -1,4 +1,4 @@
-**WARNING:** If you come here from 2022 posts (Reddit posts, PhoenixSC), this is NOT what you're looking for. This is an old version which does not have the same functionality as what you've seen. It's pretty buggy and is a nightmare to set up. The new version will be release in the second half of summer 2022. To stay tuned for updates, subscribe to me on YouTube. Thank you!
+**WARNING:** If you come here from 2022 posts (Reddit posts, PhoenixSC), this is NOT what you're looking for. This is an old version which does not have the same functionality as what you've seen. It's pretty buggy and is a nightmare to set up. The new version will be released in the second half of summer 2022. To stay tuned for updates, subscribe to me on YouTube. Thank you!
 
 
 This is the official repo for my video "Playing MINECRAFT with a WEBCAM" on YouTube
